@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+*.log
+*.sqlite3
+*.db
+*.env
+*.venv
+tugas4_output.png
